@@ -6,7 +6,7 @@ Projeto feito com a Rocketseat no NLW Journey.
 <br>
 
 <p align="center">
-  <img alt="APP - Roteiro de Viagem" src="/assets/preview.png" width="40%">
+  <img alt="APP - Roteiro de Viagem" src="/assets/preview.png" width="90%">
 </p>
 
 ## 🚀 Tecnologias
